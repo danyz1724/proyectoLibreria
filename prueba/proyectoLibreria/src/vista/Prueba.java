@@ -24,6 +24,8 @@ public class Prueba {
 		 */
 		auDao.consultarAutor();
 		liDao.consultarlibro();
+		
+		// esto es un comentario de la prueba de Entornos
 	}
 
 }
